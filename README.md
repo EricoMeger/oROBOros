@@ -1,5 +1,5 @@
 # oROBOros
-Projeto de concluspara Técnico em Informática no IFPR.
+Projeto de conclusão de curso para Técnico em Informática no IFPR.
 
 O trabalho consistiu no desenvolvimento de um robô-tanque para participar em competições de robótica na modalidade Trekking.
 Não foi possível concluí-lo em sua totalidade, tendo sido desenvolvido apenas os códigos de visão computacional para reconhecimento dos cones 
