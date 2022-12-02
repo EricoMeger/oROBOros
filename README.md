@@ -1,4 +1,6 @@
 # oROBOros
+<p align="justify"> 
+
 Projeto de conclusão de curso para Técnico em Informática no IFPR.
 
 O trabalho consistiu no desenvolvimento de um robô-tanque para participar em competições de robótica na modalidade Trekking.
@@ -24,3 +26,4 @@ não foi possível usar ela. Caso seja de seu interesse, é possível utilizá-l
 *python detect.py --source 0 --weights treino3.pt*
 
 O dataset utilizado também foi feito por nós, e está disponível no [roboflow](https://app.roboflow.com/robotica-xftin/traffic-cones-4laxg/overview).
+</p>
