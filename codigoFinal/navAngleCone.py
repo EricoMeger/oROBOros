@@ -5,7 +5,6 @@ import cv2
 import numpy as np
 from i2clibraries import i2c_hmc5883l
 from math import atan2, pi
-from geopy.distance import geodesic
 import cv2
 import numpy as np
 
